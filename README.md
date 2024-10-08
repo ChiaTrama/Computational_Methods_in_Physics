@@ -9,8 +9,6 @@ Questo progetto implementa diversi metodi numerici per risolvere l'equazione di 
 1. **Metodo di Eulero Esplicito**
 2. **Metodo di Crank-Nicolson**
 3. **Metodo di Stormer-Verlet**
-
-È possibile eseguire la simulazione sia con che senza rinormalizzazione della funzione d'onda durante la dinamica. I risultati vengono esportati in file per successive analisi e visualizzazioni.
-
+   
 
 ---
