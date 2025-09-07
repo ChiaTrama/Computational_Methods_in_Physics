@@ -1,14 +1,17 @@
 
 ---
 
-# **Equazione di Schrödinger Tempo Dipendente 1-D con Condizioni al Contorno Periodiche e Potenziale a Gradino**  
-**Confronto di Propagatori: Eulero Esplicito, Crank-Nicolson, Verlet, con e senza Rinormalizzazione della Funzione d’Onda durante la Dinamica**
+# **Time-Dependent Schrödinger Equation in 1-D with Periodic Boundary Conditions and Step Potential**
 
-Questo progetto implementa diversi metodi numerici per risolvere l'equazione di Schrödinger dipendente dal tempo per una particella in una dimensione (1-D) con condizioni al contorno periodiche e potenziale a gradino. Il codice confronta l'efficacia di tre diversi propagatori:
+**Comparison of Propagators: Explicit Euler, Crank–Nicolson, Verlet, with and without Wavefunction Renormalization during Dynamics**
 
-1. **Metodo di Eulero Esplicito**
-2. **Metodo di Crank-Nicolson**
-3. **Metodo di Stormer-Verlet**
-   
+This project implements several numerical methods to solve the time-dependent Schrödinger equation for a particle in one dimension (1-D) with periodic boundary conditions and a step potential. The code compares the effectiveness of three different propagators:
+
+1. **Explicit Euler Method**
+2. **Crank–Nicolson Method**
+3. **Stormer–Verlet Method**
 
 ---
+
+
+
